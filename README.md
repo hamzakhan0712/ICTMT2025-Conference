@@ -15,7 +15,7 @@
 <tr>
 <td width="50%">
 <img 
-  src="./public/Screenshot.png" 
+  src="./public/screenshot1.png" 
   style="border-radius: 16px;" 
   width="100%"
 />
@@ -24,7 +24,7 @@
 
 <td width="50%">
 <img 
-  src="./public/Screenshot.png" 
+  src="./public/screenshot2.png" 
   style="border-radius: 16px;" 
   width="100%"
 />
@@ -35,7 +35,7 @@
 <tr>
 <td width="50%">
 <img 
-  src="./public/Screenshot.png" 
+  src="./public/screenshot3.png" 
   style="border-radius: 16px;" 
   width="100%"
 />
@@ -44,7 +44,7 @@
 
 <td width="50%">
 <img 
-  src="./public/Screenshot.png" 
+  src="./public/screenshot4.png" 
   style="border-radius: 16px;" 
   width="100%"
 />
