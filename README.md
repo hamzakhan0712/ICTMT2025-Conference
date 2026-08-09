@@ -8,9 +8,9 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-4.0.7-06B6D4?logo=tailwindcss&logoColor=white)
 ![License](https://img.shields.io/badge/License-ISC-yellow.svg)
 
-**International Conference on Technology, Mathematics, and Teaching 2025**
+##International Conference on Technology, Mathematics, and Teaching 2025**
 
-## ✨ Platform Preview
+### ✨ Platform Preview
 
 <table>
 <tr>
