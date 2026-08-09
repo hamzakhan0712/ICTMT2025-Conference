@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./public/Screenshot.png" alt="ICTMT 2025 Conference Website" width="100%">
-</p>
-
 # ICTMT 2025 - Conference Website
 
 <div align="center">
@@ -11,6 +7,10 @@
 ![Vite](https://img.shields.io/badge/Vite-6.1.0-646CFF?logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-4.0.7-06B6D4?logo=tailwindcss&logoColor=white)
 ![License](https://img.shields.io/badge/License-ISC-yellow.svg)
+
+<p align="center">
+  <img src="./public/Screenshot.png" alt="ICTMT 2025 Conference Website" width="100%">
+</p>
 
 **International Conference on Technology, Mathematics, and Teaching 2025**
 
