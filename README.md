@@ -54,7 +54,7 @@
 </tr>
 </table>
 
-[Features](#-key-features) • [Installation](#-installation) • [Documentation](#-project-structure) • [Demo](#-usage)
+[Features](#-key-features) • [Installation](#-installation) • [Documentation](#-project-structure) • [Demo](https://ictmt-2025-conference.vercel.app/)
 
 </div>
 
