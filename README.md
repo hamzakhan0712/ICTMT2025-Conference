@@ -10,9 +10,33 @@
 
 **International Conference on Technology, Mathematics, and Teaching 2025**
 
-<p align="center">
-  <img src="./public/Screenshot.png" alt="ICTMT 2025 Conference Website" width="100%">
-</p>
+## ✨ Platform Preview
+
+<table>
+<tr>
+<td width="50%">
+<img src="./public/Screenshot.png" />
+<p align="center"><b>Landing Page</b></p>
+</td>
+
+<td width="50%">
+<img src="./public/Screenshot.png" />
+<p align="center"><b>Conference Program</b></p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<img src="./public/Screenshot.png" />
+<p align="center"><b>Speakers</b></p>
+</td>
+
+<td width="50%">
+<img src="./public/Screenshot.png" />
+<p align="center"><b>Conference Information</b></p>
+</td>
+</tr>
+</table>
 
 [Features](#-key-features) • [Installation](#-installation) • [Documentation](#-project-structure) • [Demo](#-usage)
 
