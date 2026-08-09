@@ -6,7 +6,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-99.2%25-F7DF1E?logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-6.1.0-646CFF?logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-4.0.7-06B6D4?logo=tailwindcss&logoColor=white)
-![License](https://img.shields.io/badge/License-ISC-yellow.svg)
 
 ## International Conference on Technology, Mathematics, and Teaching 2025
 
