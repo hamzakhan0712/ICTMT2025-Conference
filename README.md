@@ -15,24 +15,40 @@
 <table>
 <tr>
 <td width="50%">
-<img src="./public/Screenshot.png" />
+<img 
+  src="./public/Screenshot.png" 
+  style="border-radius: 16px;" 
+  width="100%"
+/>
 <p align="center"><b>Landing Page</b></p>
 </td>
 
 <td width="50%">
-<img src="./public/Screenshot.png" />
+<img 
+  src="./public/Screenshot.png" 
+  style="border-radius: 16px;" 
+  width="100%"
+/>
 <p align="center"><b>Conference Program</b></p>
 </td>
 </tr>
 
 <tr>
 <td width="50%">
-<img src="./public/Screenshot.png" />
+<img 
+  src="./public/Screenshot.png" 
+  style="border-radius: 16px;" 
+  width="100%"
+/>
 <p align="center"><b>Speakers</b></p>
 </td>
 
 <td width="50%">
-<img src="./public/Screenshot.png" />
+<img 
+  src="./public/Screenshot.png" 
+  style="border-radius: 16px;" 
+  width="100%"
+/>
 <p align="center"><b>Conference Information</b></p>
 </td>
 </tr>
