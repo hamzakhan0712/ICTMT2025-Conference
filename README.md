@@ -8,11 +8,11 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-4.0.7-06B6D4?logo=tailwindcss&logoColor=white)
 ![License](https://img.shields.io/badge/License-ISC-yellow.svg)
 
+**International Conference on Technology, Mathematics, and Teaching 2025**
+
 <p align="center">
   <img src="./public/Screenshot.png" alt="ICTMT 2025 Conference Website" width="100%">
 </p>
-
-**International Conference on Technology, Mathematics, and Teaching 2025**
 
 [Features](#-key-features) • [Installation](#-installation) • [Documentation](#-project-structure) • [Demo](#-usage)
 
