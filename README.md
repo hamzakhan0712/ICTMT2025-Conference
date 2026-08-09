@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/screenshot.png" alt="ICTMT 2025 Conference Website" width="100%">
+  <img src="./public/Screenshot.png" alt="ICTMT 2025 Conference Website" width="100%">
 </p>
 
 # ICTMT 2025 - Conference Website
