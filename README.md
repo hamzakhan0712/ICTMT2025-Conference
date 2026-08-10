@@ -3,7 +3,6 @@
 The website for **ICTMT 2025**, the International Conference on Technology and Management for
 Transformation, organised by Saraswati College of Engineering (SCOE), Kharghar, Navi Mumbai.
 
-<<<<<<< HEAD
 It is a single-page React site: everything (conference intro, keynote, tracks, dates, call for
 papers, fees, committee) lives on one page, and the navigation scrolls between sections rather than
 routing between pages. There is no backend — paper submission goes to Microsoft CMT and
@@ -16,60 +15,6 @@ registration payments are made by bank transfer, so the site only has to present
 | ![Conference tracks](docs/screenshots/tracks.jpg)    | ![Registration](docs/screenshots/registration.jpg)        |
 
 ## Conference details on the site
-=======
-![React](https://img.shields.io/badge/React-19.0.0-61DAFB?logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-99.2%25-F7DF1E?logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-6.1.0-646CFF?logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-4.0.7-06B6D4?logo=tailwindcss&logoColor=white)
-
-## International Conference on Technology, Mathematics, and Teaching 2025
-
-### ✨ Platform Preview
-
-<table>
-<tr>
-<td width="50%">
-<img 
-  src="./public/screenshot1.png" 
-  style="border-radius: 16px;" 
-  width="100%"
-/>
-<p align="center"><b>Landing Page</b></p>
-</td>
-
-<td width="50%">
-<img 
-  src="./public/screenshot2.png" 
-  style="border-radius: 16px;" 
-  width="100%"
-/>
-<p align="center"><b>Conference Program</b></p>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<img 
-  src="./public/screenshot3.png" 
-  style="border-radius: 16px;" 
-  width="100%"
-/>
-<p align="center"><b>Speakers</b></p>
-</td>
-
-<td width="50%">
-<img 
-  src="./public/screenshot4.png" 
-  style="border-radius: 16px;" 
-  width="100%"
-/>
-<p align="center"><b>Conference Information</b></p>
-</td>
-</tr>
-</table>
-
-[Features](#-key-features) • [Installation](#-installation) • [Documentation](#-project-structure) • [Demo](https://ictmt-2025-conference.vercel.app/)
->>>>>>> 28b43fbf08f31ba59de67fcfb4729fdd66adc84b
 
 - **Date:** 8th April 2025, held online
 - **Tracks:** Emerging IT Trends, Applied Computing & Data Science, Electronics & Electrical
